@@ -35,7 +35,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 }
 </style>
 <br>
-<a id="s_lc_event_8789303" href="https://okstate.libcal.com/event/5584425">UCO Registration</a>
+<a id="s_lc_event_8789303" href="https://uco.co1.qualtrics.com/jfe/form/SV_6ioKLezrEKRycx8">UCO Registration</a>
 <style>
 #s_lc_event_8789303 {
   background: #FFD200;
